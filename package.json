@@ -1,0 +1,9 @@
+{
+  "name": "dialogflow-webhook",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.9.2",
+    "node-fetch": "^3.3.2"
+  }
+}
